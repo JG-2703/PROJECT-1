@@ -1,6 +1,6 @@
-# PROJECT-1
+# E-PARAMARSH
 
-E-PARAMARSH (Counselling Website) 
+(Counselling Website) 
 (HTML, CSS, JavaScript, PHP, SQL)
 Students benefit from career guidance and mentoring.
 This platform assists students in selecting suitable colleges based on their 
