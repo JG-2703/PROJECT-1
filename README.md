@@ -29,19 +29,18 @@ Welcome to **Project E-Paramarsh**, a counseling website designed to provide det
 ![Homepage](mmpj/screenshots/Screenshot1.png "Homepage Screenshot")
 ![Homepage](mmpj/screenshots/Screenshot2.png "Homepage Screenshot")
 ![Homepage](mmpj/screenshots/Screenshot3.png "Homepage Screenshot")
-![Homepage](mmpj/screenshots/Screenshot4.png "Homepage Screenshot")
-![Homepage](mmpj/screenshots/Screenshot5.png "Homepage Screenshot")
-![Homepage](mmpj/screenshots/Screenshot6.png "Homepage Screenshot")
-![Homepage](mmpj/screenshots/Screenshot7.png "Homepage Screenshot")
-![Homepage](mmpj/screenshots/Screenshot8.png "Homepage Screenshot")
-![Homepage](mmpj/screenshots/Screenshot9.png "Homepage Screenshot")
-![Homepage](mmpj/screenshots/Screenshot10.png "Homepage Screenshot")
+
+### Branches
+![Homepage](mmpj/screenshots/Screenshot4.png "Screenshot")
+![Homepage](mmpj/screenshots/Screenshot5.png "Screenshot")
 
 ### 🔍 College Comparison
-![College Comparison](Screenshots/Comparison.png "College Comparison Screenshot")
+![Homepage](mmpj/screenshots/Screenshot6.png "Screenshot")
+
 
 ### 📊 College Search Results
-![College Results](Screenshots/SearchResults.png "College Search Results Screenshot")
+![Homepage](mmpj/screenshots/Screenshot7.png "Screenshot")
+![Homepage](mmpj/screenshots/Screenshot8.png "Screenshot")
 
 ---
 
