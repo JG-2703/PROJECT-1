@@ -26,8 +26,8 @@ Welcome to **Project E-Paramarsh**, a counseling website designed to provide det
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](Screenshots/Homepage1.png "Homepage Screenshot")
-![Homepage](Screenshots/Homepage2.png "Homepage Screenshot")
+![Homepage](screenshots/Screenshot1.png "Homepage Screenshot")
+![Homepage](screenshots/Screenshot2.png "Homepage Screenshot")
 
 ### 🔍 College Comparison
 ![College Comparison](Screenshots/Comparison.png "College Comparison Screenshot")
