@@ -64,8 +64,7 @@ Welcome to **Project E-Paramarsh**, a counseling website designed to provide det
 
 - Start your PHP server (e.g., XAMPP).  
 - Place the project folder in the htdocs directory.  
-- Run the Python script predict.py to generate model predictions.  
-- Access the website via http://localhost/heart-disease-prediction.  
+- Access the website via http://localhost/mmpj/login.php.  
 
 ---
 
